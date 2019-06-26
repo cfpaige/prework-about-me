@@ -1,4 +1,3 @@
-## About Me 
+##Coding Bootcamp Prework Assignments##
 
-* This website is a static HTML website using semantic tags and minimal CSS. 
-* It is currently hosted on Github Pages.
+Basic HTML landing page with links to completed prework assignments.
